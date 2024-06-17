@@ -1,7 +1,7 @@
 export default function Junyoung() {
   return (
     <>
-      <h1>ㅂㅈㄷㄱ Component</h1>
+      <h1>junyoungs Component</h1>
     </>
   );
 }
